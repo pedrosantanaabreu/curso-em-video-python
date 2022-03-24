@@ -11,7 +11,7 @@ Todos os exercícios e anotações das aulas do curso de Python do ["Curso em V�
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## 🌎 Capítulos
-- Mundo 1
+- [Mundo 1](https://github.com/pedrosantanaabreu/curso-em-video-python/tree/main/mundos/mundo-1)
 - Mundo 2
 - Mundo 3
 
